@@ -1,0 +1,54 @@
+{
+  "chart": {
+    "title": "Unemployment rate",
+    "subtitle": "Share of the labor force without work but available for and seeking employment.",
+    "citation": "International Monetary Fund (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/unemployment-rate-imf?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Canada",
+      "Japan",
+      "Italy"
+    ]
+  },
+  "columns": {
+    "Unemployment rate - Percent of total labor force - Observations": {
+      "titleShort": "Unemployment rate - Percent of total labor force - Observations",
+      "titleLong": "Unemployment rate - Percent of total labor force - Observations",
+      "descriptionShort": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1980-2023",
+      "type": "Numeric",
+      "owidVariableId": 900808,
+      "shortName": "unemployment_rate__percent_of_total_labor_force_observation",
+      "lastUpdated": "2024-05-02",
+      "nextUpdate": "2024-12-16",
+      "citationShort": "International Monetary Fund (2024) – with minor processing by Our World in Data",
+      "citationLong": "International Monetary Fund (2024) – with minor processing by Our World in Data. “Unemployment rate - Percent of total labor force - Observations” [dataset]. International Monetary Fund, “World Economic Outlook April 2024 Edition” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900808.metadata.json"
+    },
+    "Unemployment rate - Percent of total labor force - Forecasts": {
+      "titleShort": "Unemployment rate - Percent of total labor force - Forecasts",
+      "titleLong": "Unemployment rate - Percent of total labor force - Forecasts",
+      "descriptionShort": "Near-term projections. Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2010-2029",
+      "type": "Numeric",
+      "owidVariableId": 900807,
+      "shortName": "unemployment_rate__percent_of_total_labor_force_forecast",
+      "lastUpdated": "2024-05-02",
+      "nextUpdate": "2024-12-16",
+      "citationShort": "International Monetary Fund (2024) – with minor processing by Our World in Data",
+      "citationLong": "International Monetary Fund (2024) – with minor processing by Our World in Data. “Unemployment rate - Percent of total labor force - Forecasts” [dataset]. International Monetary Fund, “World Economic Outlook April 2024 Edition” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900807.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-16"
+}

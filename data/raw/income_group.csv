@@ -1,0 +1,269 @@
+,Country Name,Country Code,Income_Group
+0,Aruba,ABW,Ingreso alto
+1,,AFE,Agregados
+2,Afganistán,AFG,Países de ingreso bajo
+3,,AFW,Agregados
+4,Angola,AGO,Países de ingreso mediano bajo
+5,Albania,ALB,Ingreso mediano alto
+6,Andorra,AND,Ingreso alto
+7,El mundo árabe,ARB,Agregados
+8,Emiratos Árabes Unidos,ARE,Ingreso alto
+9,Argentina,ARG,Ingreso mediano alto
+10,Armenia,ARM,Ingreso mediano alto
+11,Samoa Americana,ASM,Ingreso alto
+12,Antigua y Barbuda,ATG,Ingreso alto
+13,Australia,AUS,Ingreso alto
+14,Austria,AUT,Ingreso alto
+15,Azerbaiyán,AZE,Ingreso mediano alto
+16,Burundi,BDI,Países de ingreso bajo
+17,Bélgica,BEL,Ingreso alto
+18,Benin,BEN,Países de ingreso mediano bajo
+19,Burkina Faso,BFA,Países de ingreso bajo
+20,Bangladesh,BGD,Países de ingreso mediano bajo
+21,Bulgaria,BGR,Ingreso alto
+22,Bahrein,BHR,Ingreso alto
+23,Bahamas,BHS,Ingreso alto
+24,Bosnia y Herzegovina,BIH,Ingreso mediano alto
+25,Belarús,BLR,Ingreso mediano alto
+26,Belice,BLZ,Ingreso mediano alto
+27,Bermudas,BMU,Ingreso alto
+28,Bolivia,BOL,Países de ingreso mediano bajo
+29,Brasil,BRA,Ingreso mediano alto
+30,Barbados,BRB,Ingreso alto
+31,Brunei Darussalam,BRN,Ingreso alto
+32,Bhután,BTN,Países de ingreso mediano bajo
+33,Botswana,BWA,Ingreso mediano alto
+34,República Centroafricana,CAF,Países de ingreso bajo
+35,Canadá,CAN,Ingreso alto
+36,"Europa Central y del Báltico
+",CEB,Agregados
+37,Suiza,CHE,Ingreso alto
+38,Islas del Canal,CHI,Ingreso alto
+39,Chile,CHL,Ingreso alto
+40,China,CHN,Ingreso mediano alto
+41,Côte d'Ivoire,CIV,Países de ingreso mediano bajo
+42,Camerún,CMR,Países de ingreso mediano bajo
+43,"Congo, República Democrática del",COD,Países de ingreso bajo
+44,"Congo, República del",COG,Países de ingreso mediano bajo
+45,Colombia,COL,Ingreso mediano alto
+46,Comoras,COM,Países de ingreso mediano bajo
+47,Cabo Verde,CPV,Países de ingreso mediano bajo
+48,Costa Rica,CRI,Ingreso mediano alto
+49,Estados pequeos del Caribe,CSS,Agregados
+50,Cuba,CUB,Ingreso mediano alto
+51,Curacao,CUW,Ingreso alto
+52,Islas Caimán,CYM,Ingreso alto
+53,Chipre,CYP,Ingreso alto
+54,República Checa,CZE,Ingreso alto
+55,Alemania,DEU,Ingreso alto
+56,Djibouti,DJI,Países de ingreso mediano bajo
+57,Dominica,DMA,Ingreso mediano alto
+58,Dinamarca,DNK,Ingreso alto
+59,República Dominicana,DOM,Ingreso mediano alto
+60,Argelia,DZA,Ingreso mediano alto
+61,Asia oriental y el Pacífico (excluido altos ingresos),EAP,Agregados
+62,inicial del dividendo demográfico,EAR,Agregados
+63,Asia oriental y el Pacífico ,EAS,Agregados
+64,Europa y Asia central (excluido altos ingresos),ECA,Agregados
+65,Europa y Asia central,ECS,Agregados
+66,Ecuador,ECU,Ingreso mediano alto
+67,"Egipto, República Árabe de",EGY,Países de ingreso mediano bajo
+68,Zona del Euro,EMU,Agregados
+69,Eritrea,ERI,Países de ingreso bajo
+70,España,ESP,Ingreso alto
+71,Estonia,EST,Ingreso alto
+72,Etiopía,ETH,Países de ingreso bajo
+73,Unión Europea,EUU,Agregados
+74,"Frágiles y situaciones de conflicto afectados
+",FCS,Agregados
+75,Finlandia,FIN,Ingreso alto
+76,Fiji,FJI,Ingreso mediano alto
+77,Francia,FRA,Ingreso alto
+78,Islas Feroe,FRO,Ingreso alto
+79,Micronesia (Estados Federados de),FSM,Países de ingreso mediano bajo
+80,Gabón,GAB,Ingreso mediano alto
+81,Reino Unido,GBR,Ingreso alto
+82,Georgia,GEO,Ingreso mediano alto
+83,Ghana,GHA,Países de ingreso mediano bajo
+84,Gibraltar,GIB,Ingreso alto
+85,Guinea,GIN,Países de ingreso mediano bajo
+86,Gambia,GMB,Países de ingreso bajo
+87,Guinea-Bissau,GNB,Países de ingreso bajo
+88,Guinea Ecuatorial,GNQ,Ingreso mediano alto
+89,Grecia,GRC,Ingreso alto
+90,Granada,GRD,Ingreso mediano alto
+91,Groenlandia,GRL,Ingreso alto
+92,Guatemala,GTM,Ingreso mediano alto
+93,Guam,GUM,Ingreso alto
+94,Guyana,GUY,Ingreso alto
+95,Ingreso alto,HIC,Agregados
+96,"Hong Kong, Región Administrativa Especial",HKG,Ingreso alto
+97,Honduras,HND,Países de ingreso mediano bajo
+98,Países pobres muy endeudados (PPME),HPC,Agregados
+99,Croacia,HRV,Ingreso alto
+100,Haití,HTI,Países de ingreso mediano bajo
+101,Hungría,HUN,Ingreso alto
+102,Sólo BIRF,IBD,Agregados
+103,BIRF y la AIF,IBT,Agregados
+104,total de la AIF,IDA,Agregados
+105,mezcla de la AIF,IDB,Agregados
+106,Indonesia,IDN,Ingreso mediano alto
+107,Sólo AIF,IDX,Agregados
+108,Isla de Man,IMN,Ingreso alto
+109,India,IND,Países de ingreso mediano bajo
+110,No clasificado,INX,Agregados
+111,Irlanda,IRL,Ingreso alto
+112,"Irán, República Islámica del",IRN,Ingreso mediano alto
+113,Iraq,IRQ,Ingreso mediano alto
+114,Islandia,ISL,Ingreso alto
+115,Israel,ISR,Ingreso alto
+116,Italia,ITA,Ingreso alto
+117,Jamaica,JAM,Ingreso mediano alto
+118,Jordania,JOR,Países de ingreso mediano bajo
+119,Japón,JPN,Ingreso alto
+120,Kazajstán,KAZ,Ingreso mediano alto
+121,Kenya,KEN,Países de ingreso mediano bajo
+122,Kirguistán,KGZ,Países de ingreso mediano bajo
+123,Camboya,KHM,Países de ingreso mediano bajo
+124,Kiribati,KIR,Países de ingreso mediano bajo
+125,Saint Kitts y Nevis,KNA,Ingreso alto
+126,"Corea, República de",KOR,Ingreso alto
+127,Kuwait,KWT,Ingreso alto
+128,América Latina y el Caribe (excluido altos ingresos),LAC,Agregados
+129,República Democrática Popular Lao,LAO,Países de ingreso mediano bajo
+130,Líbano,LBN,Países de ingreso mediano bajo
+131,Liberia,LBR,Países de ingreso bajo
+132,Libia,LBY,Ingreso mediano alto
+133,Santa Lucía,LCA,Ingreso mediano alto
+134,América Latina y el Caribe ,LCN,Agregados
+135,Países menos desarrollados: clasificación de las Naciones Unidas,LDC,Agregados
+136,Países de ingreso bajo,LIC,Agregados
+137,Liechtenstein,LIE,Ingreso alto
+138,Sri Lanka,LKA,Países de ingreso mediano bajo
+139,Países de ingreso mediano bajo,LMC,Agregados
+140,Ingreso mediano y bajo,LMY,Agregados
+141,Lesotho,LSO,Países de ingreso mediano bajo
+142,avanzada del dividendo demográfico,LTE,Agregados
+143,Lituania,LTU,Ingreso alto
+144,Luxemburgo,LUX,Ingreso alto
+145,Letonia,LVA,Ingreso alto
+146,"Región Administrativa Especial de Macao, China",MAC,Ingreso alto
+147,Isla de San Martín (parte francesa),MAF,Ingreso alto
+148,Marruecos,MAR,Países de ingreso mediano bajo
+149,Mónaco,MCO,Ingreso alto
+150,República de Moldova,MDA,Ingreso mediano alto
+151,Madagascar,MDG,Países de ingreso bajo
+152,Maldivas,MDV,Ingreso mediano alto
+153,Oriente Medio y Norte de África,MEA,Agregados
+154,México,MEX,Ingreso mediano alto
+155,Islas Marshall,MHL,Ingreso mediano alto
+156, Ingreso mediano,MIC,Agregados
+157,Macedonia del Norte,MKD,Ingreso mediano alto
+158,Malí,MLI,Países de ingreso bajo
+159,Malta,MLT,Ingreso alto
+160,Myanmar,MMR,Países de ingreso mediano bajo
+161,Oriente Medio y Norte de África (excluido altos ingresos),MNA,Agregados
+162,Montenegro,MNE,Ingreso mediano alto
+163,Mongolia,MNG,Ingreso mediano alto
+164,Mariana,MNP,Ingreso alto
+165,Mozambique,MOZ,Países de ingreso bajo
+166,Mauritania,MRT,Países de ingreso mediano bajo
+167,Mauricio,MUS,Ingreso mediano alto
+168,Malawi,MWI,Países de ingreso bajo
+169,Malasia,MYS,Ingreso mediano alto
+170,América del Norte,NAC,Agregados
+171,Namibia,NAM,Ingreso mediano alto
+172,Nueva Caledonia,NCL,Ingreso alto
+173,Níger,NER,Países de ingreso bajo
+174,Nigeria,NGA,Países de ingreso mediano bajo
+175,Nicaragua,NIC,Países de ingreso mediano bajo
+176,Países Bajos,NLD,Ingreso alto
+177,Noruega,NOR,Ingreso alto
+178,Nepal,NPL,Países de ingreso mediano bajo
+179,Nauru,NRU,Ingreso alto
+180,Nueva Zelandia,NZL,Ingreso alto
+181,Miembros OCDE,OED,Agregados
+182,Omán,OMN,Ingreso alto
+183,Otros Estados pequeos,OSS,Agregados
+184,Pakistán,PAK,Países de ingreso mediano bajo
+185,Panamá,PAN,Ingreso alto
+186,Perú,PER,Ingreso mediano alto
+187,Filipinas,PHL,Países de ingreso mediano bajo
+188,Palau,PLW,Ingreso alto
+189,Papua Nueva Guinea,PNG,Países de ingreso mediano bajo
+190,Polonia,POL,Ingreso alto
+191,previa al dividendo demográfico,PRE,Agregados
+192,Puerto Rico,PRI,Ingreso alto
+193,"Corea, República Popular Democrática de",PRK,Países de ingreso bajo
+194,Portugal,PRT,Ingreso alto
+195,Paraguay,PRY,Ingreso mediano alto
+196,Ribera Occidental y Gaza,PSE,Países de ingreso mediano bajo
+197,Estados pequeos de las Islas del Pacfico,PSS,Agregados
+198,posterior al dividendo demográfico,PST,Agregados
+199,Polinesia Francesa,PYF,Ingreso alto
+200,Qatar,QAT,Ingreso alto
+201,Rumania,ROU,Ingreso alto
+202,Federación de Rusia,RUS,Ingreso alto
+203,Rwanda,RWA,Países de ingreso bajo
+204,Asia meridional,SAS,Agregados
+205,Arabia Saudita,SAU,Ingreso alto
+206,Sudán,SDN,Países de ingreso bajo
+207,Senegal,SEN,Países de ingreso mediano bajo
+208,Singapur,SGP,Ingreso alto
+209,Islas Salomón,SLB,Países de ingreso mediano bajo
+210,Sierra Leona,SLE,Países de ingreso bajo
+211,El Salvador,SLV,Ingreso mediano alto
+212,San Marino,SMR,Ingreso alto
+213,Somalia,SOM,Países de ingreso bajo
+214,Serbia,SRB,Ingreso mediano alto
+215,África al sur del Sahara (excluido altos ingresos),SSA,Agregados
+216,Sudán del Sur,SSD,Países de ingreso bajo
+217,África al sur del Sahara,SSF,Agregados
+218,Pequeños Estados,SST,Agregados
+219,Santo Tomé y Príncipe,STP,Países de ingreso mediano bajo
+220,Suriname,SUR,Ingreso mediano alto
+221,República Eslovaca,SVK,Ingreso alto
+222,Eslovenia,SVN,Ingreso alto
+223,Suecia,SWE,Ingreso alto
+224,Eswatini,SWZ,Países de ingreso mediano bajo
+225,Sint Maarten (Dutch part),SXM,Ingreso alto
+226,Seychelles,SYC,Ingreso alto
+227,República Árabe Siria,SYR,Países de ingreso bajo
+228,Islas Turcas y Caicos,TCA,Ingreso alto
+229,Chad,TCD,Países de ingreso bajo
+230,Asia oriental y el Pacífico (BIRF y la AIF),TEA,Agregados
+231,Europa y Asia central (BIRF y la AIF),TEC,Agregados
+232,Togo,TGO,Países de ingreso bajo
+233,Tailandia,THA,Ingreso mediano alto
+234,Tayikistán,TJK,Países de ingreso mediano bajo
+235,Turkmenistán,TKM,Ingreso mediano alto
+236,América Latina y el Caribe (BIRF y la AIF),TLA,Agregados
+237,Timor-Leste,TLS,Países de ingreso mediano bajo
+238,Oriente Medio y Norte de África (BIRF y la AIF),TMN,Agregados
+239,Tonga,TON,Ingreso mediano alto
+240,Asia meridional (BIRF y la AIF),TSA,Agregados
+241,África al sur del Sahara (BIRF y la AIF),TSS,Agregados
+242,Trinidad y Tobago,TTO,Ingreso alto
+243,Túnez,TUN,Países de ingreso mediano bajo
+244,Turquía,TUR,Ingreso mediano alto
+245,Tuvalu,TUV,Ingreso mediano alto
+246,Tanzanía,TZA,Países de ingreso mediano bajo
+247,Uganda,UGA,Países de ingreso bajo
+248,Ucrania,UKR,Ingreso mediano alto
+249,Ingreso mediano alto,UMC,Agregados
+250,Uruguay,URY,Ingreso alto
+251,Estados Unidos,USA,Ingreso alto
+252,Uzbekistán,UZB,Países de ingreso mediano bajo
+253,San Vicente y las Granadinas,VCT,Ingreso mediano alto
+254,Venezuela,VEN,No clasificado
+255,Islas Vírgenes Británicas,VGB,Ingreso alto
+256,Islas Vírgenes (EE.UU.),VIR,Ingreso alto
+257,Viet Nam,VNM,Países de ingreso mediano bajo
+258,Vanuatu,VUT,Países de ingreso mediano bajo
+259,Mundo,WLD,Agregados
+260,Samoa,WSM,Países de ingreso mediano bajo
+261,Kosovo,XKX,Ingreso mediano alto
+262,"Yemen, Rep. del",YEM,Países de ingreso bajo
+263,Sudáfrica,ZAF,Ingreso mediano alto
+264,Zambia,ZMB,Países de ingreso mediano bajo
+265,Zimbabwe,ZWE,Países de ingreso mediano bajo

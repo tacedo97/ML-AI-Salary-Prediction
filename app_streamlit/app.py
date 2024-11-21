@@ -11,7 +11,7 @@ model_path = os.path.join(os.path.dirname(__file__), '..', 'models', 'trained_mo
 model = joblib.load(model_path)
 
 # Título de la aplicación
-st.title('Predicción de Salarios de Puestos de Trabajo relacionados con el Data Science')
+st.title('PredictivepAI')
 
 # Foto cabecera
 image_path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'header.jpg')

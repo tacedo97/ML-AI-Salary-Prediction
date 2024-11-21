@@ -47,7 +47,7 @@ El repositorio está organizado de la siguiente manera:
 │   └── 02_LimpiezaEDA.ipynb                # Tratamiento de los datos
 |   └── 03_Entrenamiento_Evaluacion.ipynb   # Proceso de entrenamiento y obtención de resultados de los distintos modelos
 |
-├── 📁 src                                  # Pendiente de hacer
+├── 📁 src                                  # Pendiente de hacer (por el momento sólo hay una función para eliminar outliers)
 |
 └── README.md                # Este archivo
 ```
@@ -69,6 +69,7 @@ En este proyecto, se probaron y optimizaron los siguientes modelos:
 - XGBoost 🚀
 - Random Forest Regressor 🌲
 - LightGBM 💡
+
 Cada modelo fue ajustado mediante una búsqueda exhaustiva de hiperparámetros para mejorar su rendimiento en términos de Error Absoluto Medio (MAE) y R².
 
 ## 🖥️ Aplicación Interactiva
